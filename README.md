@@ -10,7 +10,7 @@ well draw a volume percentage from the drum and hope for the best!
 
 ## live
 
-[https://<your-github-name>.github.io/<this-repo>/](https://github.com/kriti28900-gif/evil-volume)
+[[https://<your-github-name>.github.io/<this-repo>/](https://github.com/kriti28900-gif/evil-volume)](https://kriti28900-gif.github.io/evil-volume/)
 
 ## how to run it
 

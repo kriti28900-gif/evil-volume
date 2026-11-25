@@ -1,23 +1,16 @@
-# <your project's name>
+# Gamble your volume away
 
-<!-- This README is the front door of your project: the gallery shows its first lines. -->
+did you accidentally turn your music on in the library, and need to turn it down? 
 
-## what it is
-
-<one or two sentences: what is your evil input?>
-
-## what input it collects
-
-<text? a volume? a phone number? brightness? a time? and how does it make that miserable?>
+well draw a volume percentage from the drum and hope for the best!
 
 ## screenshot
 
-<!-- drag a screenshot or a gif into this file on github.com to upload it -->
-![screenshot](screenshot.png)
+<img width="975" height="487" alt="image" src="https://github.com/user-attachments/assets/4abea792-f282-4d42-815b-9a85543f645d" />
 
 ## live
 
-https://<your-github-name>.github.io/<this-repo>/
+[https://<your-github-name>.github.io/<this-repo>/](https://github.com/kriti28900-gif/evil-volume)
 
 ## how to run it
 
